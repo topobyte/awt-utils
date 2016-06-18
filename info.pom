@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <name>AWT Utils</name>
+  <description>This project provides some helpers that come in handy when working with AWT.</description>
+  <url>https://github.com/topobyte/awt-utils</url>
+</project>
